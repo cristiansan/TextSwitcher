@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TextSwitcher</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+
+    //PREGUNTAS
+    <string name="pregunta_primera">¿Cómo fue <b>nuestra atención</b> el día de hoy?</string>
+    <string name="pregunta_segunda">¿Se sintió atendido con <b>calidez, amabilidad y respeto</b> ?</string>
+    <string name="pregunta_tercera">¿Cómo evalúa la <b>ayuda recibida</b> ?</string>
+
+</resources>
